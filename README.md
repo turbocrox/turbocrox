@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am Aditya Pundir currently pursuing a B.Tech in Computer Science while honing my skills in web development using technologies like React, Tailwind CSS, and GO
+I am Aditya Pundir currently pursuing a B.Tech in Computer Science while honing my skills in web development using technologies like React, Tailwind CSS, and GO <br/>
 Portfolio -  https://testport-sigma.vercel.app/
 
 ## 🌐 Socials:
