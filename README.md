@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
 
 Full-stack dev who loves learning and collaborating. Not perfect, but always improving and easy to work with. <br/>
 Portfolio -  https://testport-sigma.vercel.app/
