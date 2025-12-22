@@ -16,3 +16,4 @@ Portfolio -  https://testport-sigma.vercel.app/
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=turbocrox)
